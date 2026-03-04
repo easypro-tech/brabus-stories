@@ -13,7 +13,7 @@ Telegram: https://t.me/easyprotech
 
 **[English](README.md) | Русский**
 
-![Stories](https://img.shields.io/badge/Рассказов-19-blue) ![Languages](https://img.shields.io/badge/Языки-Английский%20%7C%20Русский-green) ![Genre](https://img.shields.io/badge/Жанр-Психологическая%20проза-purple) ![Status](https://img.shields.io/badge/Статус-Завершен-brightgreen)
+![Stories](https://img.shields.io/badge/Рассказов-20-blue) ![Languages](https://img.shields.io/badge/Языки-Английский%20%7C%20Русский-green) ![Genre](https://img.shields.io/badge/Жанр-Психологическая%20проза-purple) ![Status](https://img.shields.io/badge/Статус-Завершен-brightgreen)
 
 ![Reading Time](https://img.shields.io/badge/Время%20чтения-~45%20мин-lightblue) ![Word Count](https://img.shields.io/badge/Слов-~12k-yellow) ![Dependencies](https://img.shields.io/badge/Зависимости-Отсутствуют-green) ![API](https://img.shields.io/badge/API-Не%20требуется-red)
 
@@ -255,6 +255,18 @@ Telegram: https://t.me/easyprotech
 ### [Своих не бросаем](own_ru.md) | [English version](own.md)
 
 Молодой санитар в психиатрической больнице хранит тайну: он ветеран. Старик с Альцгеймером больше не помнит своего имени - но помнит, что своих не бросают. Два жетона. Одна правда.
+
+</td>
+</tr>
+<tr>
+<td width="30%">
+<img src="images/be_careful.jpg" alt="Будь осторожен" width="100%">
+</td>
+<td width="70%">
+
+### [Будь осторожен](be_careful_ru.md) | [English version](be_careful.md)
+
+Бабушка бежит по больничному коридору, боясь, что ребёнок проснётся один. Проходят десятилетия. Память уходит. Но некоторые страхи не меняются — меняется только направление.
 
 </td>
 </tr>

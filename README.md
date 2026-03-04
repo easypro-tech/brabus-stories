@@ -13,7 +13,7 @@ Telegram: https://t.me/easyprotech
 
 **English | [Русский](README.ru.md)**
 
-![Stories](https://img.shields.io/badge/Stories-19-blue) ![Languages](https://img.shields.io/badge/Languages-English%20%7C%20Russian-green) ![Genre](https://img.shields.io/badge/Genre-Psychological%20Fiction-purple) ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
+![Stories](https://img.shields.io/badge/Stories-20-blue) ![Languages](https://img.shields.io/badge/Languages-English%20%7C%20Russian-green) ![Genre](https://img.shields.io/badge/Genre-Psychological%20Fiction-purple) ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 
 ![Reading Time](https://img.shields.io/badge/Reading%20Time-~45%20min-lightblue) ![Word Count](https://img.shields.io/badge/Words-~12k-yellow) ![Dependencies](https://img.shields.io/badge/Dependencies-None-green) ![API](https://img.shields.io/badge/API-Not%20Required-red)
 
@@ -255,6 +255,18 @@ An elderly academician fears a large man in line at a Donetsk bus station. Then 
 ### [We Don't Leave Our Own](own.md) | [Русская версия](own_ru.md)
 
 A young orderly in a psychiatric ward carries a secret: he's a veteran. An old man with Alzheimer's no longer remembers his name-but he remembers that we don't leave our own. Two dog tags. One truth.
+
+</td>
+</tr>
+<tr>
+<td width="30%">
+<img src="images/be_careful.jpg" alt="Be Careful" width="100%">
+</td>
+<td width="70%">
+
+### [Be Careful](be_careful.md) | [Русская версия](be_careful_ru.md)
+
+A grandmother runs through a hospital corridor, afraid the child will wake up alone. Decades pass. Memory fades. But some fears never change—only the direction they point.
 
 </td>
 </tr>
