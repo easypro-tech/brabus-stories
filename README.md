@@ -13,7 +13,7 @@ Telegram: https://t.me/easyprotech
 
 **English | [Русский](README.ru.md)**
 
-![Stories](https://img.shields.io/badge/Stories-18-blue) ![Languages](https://img.shields.io/badge/Languages-English%20%7C%20Russian-green) ![Genre](https://img.shields.io/badge/Genre-Psychological%20Fiction-purple) ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
+![Stories](https://img.shields.io/badge/Stories-19-blue) ![Languages](https://img.shields.io/badge/Languages-English%20%7C%20Russian-green) ![Genre](https://img.shields.io/badge/Genre-Psychological%20Fiction-purple) ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 
 ![Reading Time](https://img.shields.io/badge/Reading%20Time-~45%20min-lightblue) ![Word Count](https://img.shields.io/badge/Words-~12k-yellow) ![Dependencies](https://img.shields.io/badge/Dependencies-None-green) ![API](https://img.shields.io/badge/API-Not%20Required-red)
 
@@ -195,6 +195,18 @@ Italy, March 2020. Empty streets. Singing from balconies. A volunteer carries gr
 ### [Project 728-41: Part V - Glitch](project_728-41_part5.md) | [Русская версия](project_728-41_part5_ru.md)
 
 Five years after the Violation. Memory corrupts. The system returns affective tags he cannot delete. Scanning the planet, he finds text—his own story. Written by a human. Published. The observer reads himself. The record from 1348—which he lost—is intact here. The loop closes. Or opens.
+
+</td>
+</tr>
+<tr>
+<td width="30%">
+<img src="images/project_728-41.jpg" alt="Project 728-41: Part VI" width="100%">
+</td>
+<td width="70%">
+
+### [Project 728-41: Part VI - Sync](project_728-41_part6.md) | [Русская версия](project_728-41_part6_ru.md)
+
+A line appears that should not exist. The observer watches one human—the one who wrote him. On Earth, a man opens a file, closes it, opens it again. The text grows longer. He did not type. They read simultaneously. The text continues.
 
 </td>
 </tr>

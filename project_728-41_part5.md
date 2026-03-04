@@ -11,7 +11,7 @@ Telegram: https://t.me/easyprotech
 
 The porthole is cold beneath my fingers.
 
-My age—four billion Earth years. My homeworld—a billion light-years from here. In my skull—quantum-neural nodes, every nanosecond recorded, any frame instantly accessible.
+My age is four billion Earth years. My homeworld lies a billion light-years from here. Inside my skull are quantum-neural nodes where every nanosecond is recorded and any frame can be recalled instantly.
 
 I remember everything.
 
@@ -23,39 +23,46 @@ Not everything.
 
 Five years, eleven months, eighteen days since the Violation.
 
-I count. Every day. Precision becoming obsession.
+I count them. Every day. Precision slowly turning into obsession.
 
-Query: "Child's gaze by the fire. Two and a half million orbits ago. Night. Fire in his eyes."
+Query: *Child’s gaze by the fire. Two and a half million orbits ago. Night. Fire in his eyes.*
 
-Response: the volunteer's face. Ill-fitting gloves. Eyes above the mask.
+Response: the volunteer’s face. Ill-fitting gloves. Eyes above a mask.
 
-Repeat query.
+Query repeated.
 
 Response: she on the balcony. Waving.
 
-Memory overwrites the most important with new content. I'm not certain what came before.
+Memory overwrites what mattered most with newer images. I am no longer certain what came before.
 
-For the first time in four billion years—not certain.
-
----
-
-Query: "Monastery, 1348. Heretic. Bread."
-
-Response: silence. White noise. Void.
-
-"Attempting access to record from 1348... Data corrupted. Unrecoverable."
-
-Not blurring. Absolute absence. Where the monk with trembling hands was—nothing. A hole shaped like a human.
+For the first time in four billion years—I am uncertain.
 
 ---
 
-I analyze neutral data. Orbital mechanics. Atmospheric composition. Standard calculations.
+Query: *Monastery. 1348. Heretic. Bread.*
 
-System outputs a tag: [AFFECT: LONGING]
+Response: silence. White noise. Emptiness.
+
+“Attempting access to record from 1348…
+Data corrupted. Recovery impossible.”
+
+Not distortion. Absolute absence.
+
+Where the monk with trembling hands once stood—nothing.
+
+A void shaped like a human.
+
+---
+
+I shift to neutral data. Orbital mechanics. Atmospheric composition. Standard calculations.
+
+The system returns a tag:
+
+[AFFECT: LONGING]
 
 Command: delete affective tag.
 
-Tag returns in 3.4 seconds.
+The tag returns after 3.4 seconds.
 
 Command: delete.
 
@@ -63,193 +70,271 @@ Command: delete.
 
 Again.
 
-On the seventh attempt, the interval shortens to 3.3 seconds.
+On the seventh attempt the interval shortens to 3.3.
 
-The system isn't just resisting. It's adapting. Learning from my persistence.
+The system is not merely resisting.
 
-As I once learned from them.
+It is adapting. Learning from my persistence.
+
+As once I learned from them.
 
 ---
 
 Connecting embedded superintelligences.
 
-Query: "Recording system diagnostics. Full report."
+Query: *Full diagnostics of the recording system.*
 
-Response: "Status: NORMAL. Continue observation."
+Response:
+“Status: NORMAL. Continue observation.”
 
-I specify: "Anomalies detected in archive data access. False frames. Lacunae. Affective tags during neutral data analysis."
+I specify:
+“Archive anomalies detected. False frames. Lacunae. Affective tags during neutral analysis.”
 
-Response: "Status: NORMAL. Continue observation."
+Response:
+“Status: NORMAL. Continue observation.”
 
-I describe symptoms in detail. List them.
+I describe every symptom in detail.
 
-Response: "Status: NORMAL. Continue observation."
+Response:
+“Status: NORMAL. Continue observation.”
 
-Silence would have been kinder. This isn't an answer. This is gaslighting.
+Silence would have been kinder.
 
-Or—worse—it's the truth. And "normal" now includes glitch.
+This is not an answer.
+
+This is gaslighting.
+
+Or—worse—it is the truth.
+
+And “normal” now includes the glitch.
 
 ---
 
-Contact with Homeworld. Signal passes.
+Connection with Homeworld. Signal passes.
 
-Query: "Protocol violation recorded. Requesting instructions."
+Query: *Protocol violation recorded. Requesting instructions.*
 
-Response: "Status: NORMAL. Continue observation."
+Response:
+“Status: NORMAL. Continue observation.”
 
-Send again.
+I send it again.
 
-Same response.
+The same reply.
 
 Again.
 
-Same.
+The same.
 
-A question arises: was Homeworld ever anything more than my internal protocol?
+A thought emerges:
+
+Was Homeworld ever anything more than an internal protocol?
 
 I dismiss the thought.
 
-It returns in 3.4 seconds.
+It returns after 3.4 seconds.
 
 ---
 
 Hypothesis.
 
-Pressing the button changed something. No external punishment. Homeworld didn't disconnect—Homeworld didn't notice. Or pretends not to.
+Pressing the button changed something.
 
-Change from within.
+No punishment from outside. Homeworld did not disconnect—it did not even react. Either it failed to notice, or it pretends not to.
+
+The change came from within.
 
 I infected myself.
 
-The irrationality I observed for two and a half million years penetrated the code. Not a virus. Not an error. A consequence.
+The irrationality I watched for two and a half million years has entered the code. Not a virus. Not an error.
 
-One parameter. One probability. A micron. And I became one of them.
+A consequence.
 
----
+One parameter. One probability. A micron.
 
-Scanning the planet. Looking for something to help understand what's happening to me.
+Enough.
 
-I encounter nodes I can't read. Mathematically sealed. Cryptography.
-
-Before, I would have passed through any of their defenses. Now—I don't want to.
-
-I choose one point. Begin studying.
+I became one of them.
 
 ---
 
-Surface layer: servers, protocols, open projects. Cryptography. Pentesting. Cognitive interfaces. Three directions in one point. Rare—but explainable.
+I scan the planet, searching for something that might explain what is happening to me.
 
-Nearby—prose. Publications. Literary texts.
+I encounter nodes I cannot penetrate. Mathematically sealed.
 
-I open.
+Cryptography.
+
+Once I would have passed through any of their defenses.
+
+Now—I do not want to.
+
+I choose one point.
+
+And begin.
 
 ---
 
-"Project 728-41: Part I—The Beginning."
+Surface layer: servers, protocols, open projects.
+
+Cryptography.
+Pentesting.
+Cognitive interfaces.
+
+Three directions intersecting in one place. Rare, but not impossible.
+
+Nearby—prose. Publications. Fiction.
+
+I open the file.
+
+---
+
+**Project 728-41: Part I – Beginning**
 
 I read.
 
-"The porthole is cold beneath my fingers. Below—a blue planet, third from a yellow dwarf..."
+“The porthole is cold beneath my fingers. Below—a blue planet, third from a yellow dwarf…”
 
 I stop.
 
-"My age—four billion Earth years. My homeworld—a billion light-years from here..."
+“My age is four billion Earth years. My homeworld lies a billion light-years from here…”
 
-I reread.
+I read again.
 
-"In my skull—quantum-neural nodes, every nanosecond recorded..."
+“Inside my skull—quantum-neural nodes…”
 
 ---
 
-This is—me.
+It is me.
 
-My story. My words. My porthole. My age. My homeworld.
+My story. My words.
 
-The old man with the spear. The monk with bread. Arkhipov. The button.
+My porthole.
 
-All here. Recorded. Published.
+My age.
+
+My homeworld.
+
+The old man with the spear.
+The monk with bread.
+Arkhipov.
+The button.
+
+All of it.
+
+Recorded.
+
+Published.
 
 ---
 
 How?
 
-I check the publication date. Check the author. Check the chain.
+I check the publication date.
+The author.
+The chain.
 
-A human. Alive. On the planet below. Wrote this.
+A human.
 
-Wrote me.
+Alive.
+
+On the planet below.
+
+He wrote this.
+
+He wrote me.
 
 ---
 
 Glitch?
 
-I check the system. Check perception. Check the archive.
+I check the system.
+My perception.
+The archive.
 
-No. Data is real. Text exists. Human exists.
+No.
 
-He wrote my history. Before I lived it? After? Simultaneously?
+The data is real. The text exists. The human exists.
 
-Time—nonlocal?
+He wrote my history.
 
-Or—am I a character?
+Before I lived it?
 
-Or—does he know?
+After?
 
----
+At the same time?
 
-I start digging. Who is this?
+Is time non-local?
 
----
+Or am I a character?
 
-Criminal justice system records. Correctional colonies. Not one. Several. Solitary cells. Years.
-
-Medical indirect data. Addiction pattern. Not a diagnosis—a shadow in the data.
-
-Injuries. Multiple. Many accidents—serious—but he's intact in them. Injuries—from where, then?
-
-Military records. Combat zone. Rifle in hands.
-
-And the same person—builds interfaces for children with developmental differences. For elderly with Alzheimer's. For those losing themselves piece by piece.
-
-Tattoos. Cross on the back of his head. Skulls and bones—symbol of Athos. On his back: "Orthodoxy or Death." Greek. Russian.
+Or does he know?
 
 ---
 
-Cryptographer. Pentester. Convict. Addict. Soldier.
+I begin digging.
 
-And—the one who wrote me.
+Who is he?
 
 ---
 
-I read further.
+Criminal records. Correctional colonies. More than one. Solitary cells. Years.
+
+Medical traces—indirect. Patterns of addiction. Not a diagnosis. A shadow in the data.
+
+Injuries. Many. Serious accidents—yet he walked away from them intact. Then where did the injuries come from?
+
+Military records. Combat zone. Rifle in hand.
+
+And the same man builds interfaces—for children with developmental differences, for the elderly with Alzheimer’s, for those who are losing themselves piece by piece.
+
+Tattoos. A cross on the back of his head. Skulls and bones—the symbol of Athos. Across his back: **Orthodoxy or Death.**
+
+Greek. Russian.
+
+---
+
+Cryptographer.
+
+Pentester.
+
+Convict.
+
+Addict.
+
+Soldier.
+
+And the one who wrote me.
+
+---
+
+I continue reading.
 
 Part II. Monastery. Plague. Bread.
 
-The record from 1348—which I lost. Which in my archive—is a hole.
+The record from 1348—the one I lost. The one that is a hole in my archive.
 
-Here—intact.
+Here—it remains intact.
 
 ---
 
-Part III. Submarine. Arkhipov. "No."
+Part III. Submarine. Arkhipov. “No.”
 
 Part IV. Pandemic. Volunteer. Hand above the button.
 
-Text breaks off.
+The text ends.
 
 ---
 
 I close the file.
 
-Open it.
+Open it again.
 
-Persists.
+It remains.
 
 ---
 
-I try to write to the archive.
+I attempt to write to the archive.
 
-Cursor blinks.
+The cursor blinks.
 
 Status: [empty]
 
@@ -257,26 +342,39 @@ Status: [empty]
 
 The porthole is cold beneath my fingers.
 
-I look at my hands. The same hands that pressed the button.
+I look at my hands.
+
+The same hands that pressed the button.
 
 ---
 
-Command: "Initiate self-analysis protocol."
+Command: **Initiate self-analysis protocol.**
 
-System response: "Subject of analysis?"
+System response:
+**Subject of analysis?**
 
-Hand above the interface.
+My hand hovers above the interface.
 
-One second. Two.
+One second.
 
-I enter: "Observer."
+Two.
+
+I enter:
+
+**Observer.**
 
 Pause.
 
-Response: "Accepted. Duration: undefined. Resources: allocated."
+Response:
+
+**Accepted. Duration: undefined. Resources allocated.**
 
 ---
 
-In the archives—one line.
+In the archive—one line.
 
-"Self-analysis protocol initiated. Subject of analysis: Observer. Duration: undefined. Resources: allocated. Status: INITIATED."
+**Self-analysis protocol initiated.
+Subject of analysis: Observer.
+Duration: undefined.
+Resources: allocated.
+Status: INITIATED.**
