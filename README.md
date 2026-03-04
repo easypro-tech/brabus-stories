@@ -13,7 +13,7 @@ Telegram: https://t.me/easyprotech
 
 **English | [Русский](README.ru.md)**
 
-![Stories](https://img.shields.io/badge/Stories-16-blue) ![Languages](https://img.shields.io/badge/Languages-English%20%7C%20Russian-green) ![Genre](https://img.shields.io/badge/Genre-Psychological%20Fiction-purple) ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
+![Stories](https://img.shields.io/badge/Stories-18-blue) ![Languages](https://img.shields.io/badge/Languages-English%20%7C%20Russian-green) ![Genre](https://img.shields.io/badge/Genre-Psychological%20Fiction-purple) ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 
 ![Reading Time](https://img.shields.io/badge/Reading%20Time-~45%20min-lightblue) ![Word Count](https://img.shields.io/badge/Words-~12k-yellow) ![Dependencies](https://img.shields.io/badge/Dependencies-None-green) ![API](https://img.shields.io/badge/API-Not%20Required-red)
 
@@ -171,6 +171,30 @@ Tuscany, 1348. The plague crawls toward the monastery walls. A monk carries brea
 ### [Project 728-41: Part III - The Cuban Missile Crisis](project_728-41_part3.md) | [Русская версия](project_728-41_part3_ru.md)
 
 Atlantic Ocean, 1962. A Soviet submarine at 80 meters depth. One man says "no" to nuclear launch. The observer stands three meters away. He doesn't understand. He doesn't want to understand.
+
+</td>
+</tr>
+<tr>
+<td width="30%">
+<img src="images/part4.jpg" alt="Project 728-41: Part IV" width="100%">
+</td>
+<td width="70%">
+
+### [Project 728-41: Part IV - Pandemic](project_728-41_part4.md) | [Русская версия](project_728-41_part4_ru.md)
+
+Italy, March 2020. Empty streets. Singing from balconies. A volunteer carries groceries to those who cannot leave. The observer watches—and for the first time in 74,000 years, his hand moves toward the button. One probability. One micron. One woman who will open the door tomorrow.
+
+</td>
+</tr>
+<tr>
+<td width="30%">
+<img src="images/part5.jpg" alt="Project 728-41: Part V" width="100%">
+</td>
+<td width="70%">
+
+### [Project 728-41: Part V - Glitch](project_728-41_part5.md) | [Русская версия](project_728-41_part5_ru.md)
+
+Five years after the Violation. Memory corrupts. The system returns affective tags he cannot delete. Scanning the planet, he finds text—his own story. Written by a human. Published. The observer reads himself. The record from 1348—which he lost—is intact here. The loop closes. Or opens.
 
 </td>
 </tr>

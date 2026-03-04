@@ -13,7 +13,7 @@ Telegram: https://t.me/easyprotech
 
 **[English](README.md) | Русский**
 
-![Stories](https://img.shields.io/badge/Рассказов-16-blue) ![Languages](https://img.shields.io/badge/Языки-Английский%20%7C%20Русский-green) ![Genre](https://img.shields.io/badge/Жанр-Психологическая%20проза-purple) ![Status](https://img.shields.io/badge/Статус-Завершен-brightgreen)
+![Stories](https://img.shields.io/badge/Рассказов-18-blue) ![Languages](https://img.shields.io/badge/Языки-Английский%20%7C%20Русский-green) ![Genre](https://img.shields.io/badge/Жанр-Психологическая%20проза-purple) ![Status](https://img.shields.io/badge/Статус-Завершен-brightgreen)
 
 ![Reading Time](https://img.shields.io/badge/Время%20чтения-~45%20мин-lightblue) ![Word Count](https://img.shields.io/badge/Слов-~12k-yellow) ![Dependencies](https://img.shields.io/badge/Зависимости-Отсутствуют-green) ![API](https://img.shields.io/badge/API-Не%20требуется-red)
 
@@ -171,6 +171,30 @@ Telegram: https://t.me/easyprotech
 ### [Проект 728-41: Часть III - Карибский кризис](project_728-41_part3_ru.md) | [English version](project_728-41_part3.md)
 
 Атлантика, 1962. Советская подлодка на глубине 80 метров. Один человек говорит «нет» ядерному пуску. Наблюдатель стоит в трёх метрах. Он не понимает. Он не хочет понимать.
+
+</td>
+</tr>
+<tr>
+<td width="30%">
+<img src="images/part4.jpg" alt="Проект 728-41: Часть IV" width="100%">
+</td>
+<td width="70%">
+
+### [Проект 728-41: Часть IV - Пандемия](project_728-41_part4_ru.md) | [English version](project_728-41_part4.md)
+
+Италия, март 2020. Пустые улицы. Пение с балконов. Волонтёр несёт продукты тем, кто не может выйти. Наблюдатель смотрит — и впервые за 74 000 лет его рука тянется к кнопке. Одна вероятность. Один микрон. Одна женщина, которая завтра откроет дверь.
+
+</td>
+</tr>
+<tr>
+<td width="30%">
+<img src="images/part5.jpg" alt="Проект 728-41: Часть V" width="100%">
+</td>
+<td width="70%">
+
+### [Проект 728-41: Часть V - Сбой](project_728-41_part5_ru.md) | [English version](project_728-41_part5.md)
+
+Пять лет после Нарушения. Память искажается. Система возвращает аффективные метки, которые он не может удалить. Сканируя планету, он находит текст — свою историю. Написанную человеком. Опубликованную. Наблюдатель читает себя. Запись от 1348 года — которую он потерял — здесь цела. Петля замыкается. Или размыкается.
 
 </td>
 </tr>
