@@ -264,11 +264,11 @@ A young orderly in a psychiatric ward carries a secret: he's a veteran. An old m
 
 ## Repository
 
-**GitHub:** [https://github.com/EPTLLC/Brabus-Stories](https://github.com/EPTLLC/Brabus-Stories)
+**GitHub:** [https://github.com/easypro-tech/brabus-stories](https://github.com/easypro-tech/brabus-stories)
 
 Clone the repository:
 ```bash
-git clone https://github.com/EPTLLC/Brabus-Stories.git
+git clone https://github.com/easypro-tech/brabus-stories.git
 ```
 
 ## Languages

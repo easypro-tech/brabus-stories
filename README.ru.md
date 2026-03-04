@@ -264,11 +264,11 @@ Telegram: https://t.me/easyprotech
 
 ## Репозиторий
 
-**GitHub:** [https://github.com/EPTLLC/Brabus-Stories](https://github.com/EPTLLC/Brabus-Stories)
+**GitHub:** [https://github.com/easypro-tech/brabus-stories](https://github.com/easypro-tech/brabus-stories)
 
 Клонировать репозиторий:
 ```bash
-git clone https://github.com/EPTLLC/Brabus-Stories.git
+git clone https://github.com/easypro-tech/brabus-stories.git
 ```
 
 ## Языки
