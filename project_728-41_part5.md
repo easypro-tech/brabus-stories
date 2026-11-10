@@ -1,10 +1,8 @@
 <!--
 Project: Brabus Stories
-Company: EasyProTech LLC (www.easypro.tech)
 Dev: Brabus
 Date: 2025-02-08 UTC
 Status: Draft
-Telegram: https://t.me/easyprotech
 -->
 
 # Project 728-41: Part V - Glitch
@@ -35,7 +33,7 @@ Response: she on the balcony. Waving.
 
 Memory overwrites what mattered most with newer images. I am no longer certain what came before.
 
-For the first time in four billion years—I am uncertain.
+For the first time in four billion years - I am uncertain.
 
 ---
 
@@ -48,7 +46,7 @@ Data corrupted. Recovery impossible.”
 
 Not distortion. Absolute absence.
 
-Where the monk with trembling hands once stood—nothing.
+Where the monk with trembling hands once stood - nothing.
 
 A void shaped like a human.
 
@@ -104,7 +102,7 @@ This is not an answer.
 
 This is gaslighting.
 
-Or—worse—it is the truth.
+Or - worse - it is the truth.
 
 And “normal” now includes the glitch.
 
@@ -139,7 +137,7 @@ Hypothesis.
 
 Pressing the button changed something.
 
-No punishment from outside. Homeworld did not disconnect—it did not even react. Either it failed to notice, or it pretends not to.
+No punishment from outside. Homeworld did not disconnect - it did not even react. Either it failed to notice, or it pretends not to.
 
 The change came from within.
 
@@ -165,7 +163,7 @@ Cryptography.
 
 Once I would have passed through any of their defenses.
 
-Now—I do not want to.
+Now - I do not want to.
 
 I choose one point.
 
@@ -181,17 +179,17 @@ Cognitive interfaces.
 
 Three directions intersecting in one place. Rare, but not impossible.
 
-Nearby—prose. Publications. Fiction.
+Nearby - prose. Publications. Fiction.
 
 I open the file.
 
 ---
 
-**Project 728-41: Part I – Beginning**
+**Project 728-41: Part I - Beginning**
 
 I read.
 
-“The porthole is cold beneath my fingers. Below—a blue planet, third from a yellow dwarf…”
+“The porthole is cold beneath my fingers. Below - a blue planet, third from a yellow dwarf…”
 
 I stop.
 
@@ -199,7 +197,7 @@ I stop.
 
 I read again.
 
-“Inside my skull—quantum-neural nodes…”
+“Inside my skull - quantum-neural nodes…”
 
 ---
 
@@ -278,15 +276,15 @@ Who is he?
 
 Criminal records. Correctional colonies. More than one. Solitary cells. Years.
 
-Medical traces—indirect. Patterns of addiction. Not a diagnosis. A shadow in the data.
+Medical traces - indirect. Patterns of addiction. Not a diagnosis. A shadow in the data.
 
-Injuries. Many. Serious accidents—yet he walked away from them intact. Then where did the injuries come from?
+Injuries. Many. Serious accidents - yet he walked away from them intact. Then where did the injuries come from?
 
 Military records. Combat zone. Rifle in hand.
 
-And the same man builds interfaces—for children with developmental differences, for the elderly with Alzheimer’s, for those who are losing themselves piece by piece.
+And the same man builds interfaces - for children with developmental differences, for the elderly with Alzheimer’s, for those who are losing themselves piece by piece.
 
-Tattoos. A cross on the back of his head. Skulls and bones—the symbol of Athos. Across his back: **Orthodoxy or Death.**
+Tattoos. A cross on the back of his head. Skulls and bones - the symbol of Athos. Across his back: **Orthodoxy or Death.**
 
 Greek. Russian.
 
@@ -310,9 +308,9 @@ I continue reading.
 
 Part II. Monastery. Plague. Bread.
 
-The record from 1348—the one I lost. The one that is a hole in my archive.
+The record from 1348 - the one I lost. The one that is a hole in my archive.
 
-Here—it remains intact.
+Here - it remains intact.
 
 ---
 
@@ -371,7 +369,7 @@ Response:
 
 ---
 
-In the archive—one line.
+In the archive - one line.
 
 **Self-analysis protocol initiated.
 Subject of analysis: Observer.

@@ -1,10 +1,8 @@
 <!--
 Project: Brabus Stories
-Company: EasyProTech LLC (www.easypro.tech)
 Dev: Brabus
 Date: 2025-09-04 16:09:50 UTC
 Status: Updated
-Telegram: https://t.me/easyprotech
 -->
 
 # Мёртвая тишина

@@ -1,10 +1,8 @@
 <!--
 Project: Brabus Stories
-Company: EasyProTech LLC (www.easypro.tech)
 Dev: Brabus
 Date: 2026-03-05 UTC
 Status: Created
-Telegram: https://t.me/easyprotech
 -->
 
 # Будь осторожен

@@ -1,3 +1,10 @@
+<!--
+Project: Brabus Stories
+Dev: Brabus
+Date: 2026-01-29 18:58:47 UTC
+Status: Created
+-->
+
 # Своих не бросаем
 
 ---

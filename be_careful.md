@@ -1,10 +1,8 @@
 <!--
 Project: Brabus Stories
-Company: EasyProTech LLC (www.easypro.tech)
 Dev: Brabus
 Date: 2026-03-05 UTC
 Status: Created
-Telegram: https://t.me/easyprotech
 -->
 
 # Be Careful
@@ -44,9 +42,9 @@ He's used to seeing her at conferences.
 Giving presentations.
 With geological cross-section maps.
 
-— What are you doing here?
+- What are you doing here?
 
-— My child is in a room.
+- My child is in a room.
 
 And she keeps walking.
 
@@ -112,17 +110,17 @@ She looks around the interior again.
 
 Then looks at him.
 
-— Are you still doing the same thing?
+- Are you still doing the same thing?
 
 He answers:
 
-— Yes, Mom.
+- Yes, Mom.
 
 She is silent.
 
 Then says quietly:
 
-— Be careful.
+- Be careful.
 
 ---
 
@@ -139,7 +137,7 @@ Until the very last moment.
 
 She sat beside her and heard her mother sometimes ask:
 
-— Did he eat?
+- Did he eat?
 
 No name was spoken.
 
@@ -155,4 +153,4 @@ Years.
 
 And then, amid the emptiness, one thing remains.
 
-— Did he eat?
+- Did he eat?

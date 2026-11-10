@@ -1,10 +1,8 @@
 <!--
 Project: Brabus Stories
-Company: EasyProTech LLC (www.easypro.tech)
 Dev: Brabus
 Date: 2026-01-08 10:44:21 UTC
 Status: Created
-Telegram: https://t.me/easyprotech
 -->
 
 # Homeward
@@ -53,7 +51,7 @@ At the base, the evening was heavy. They sat in silence. The kind of silence tha
 
 And then a shadow appeared in the doorway-torn, black with soot, alive.
 
-- What the fuck took so long?
+- What kept you?
 
 A wind passed through the room. Not laughter-relief.
 

@@ -1,10 +1,8 @@
 <!--
 Project: Brabus Stories
-Company: EasyProTech LLC (www.easypro.tech)
 Dev: Brabus
 Date: 2025-12-03 UTC
 Status: Final
-Telegram: https://t.me/easyprotech
 -->
 
 # Project 728-41: Part I - The Beginning
@@ -35,7 +33,7 @@ Over eleven local days we survey the rift valley and the coast of the proto-Red 
 
 Heat presses down. Dust grinds between teeth, fills every fold of skin. Boots sink into dry earth, leaving tracks the wind erases within minutes.
 
-Scanners detect 43 groups. Total population-around two thousand individuals. Brain 900–1100 cm³. Tools already. Fire-in some groups.
+Scanners detect 43 groups. Total population-around two thousand individuals. Brain 900-1100 cm³. Tools already. Fire-in some groups.
 
 We find the first group by a river. We spotted their campfire smoke from three kilometers away.
 
@@ -115,7 +113,7 @@ We work carefully. Like sculptors. Or butchers. Depends who's watching.
 
 Then-the schedule.
 
-Every 8–12 Earth years the ship returns. I walk down the ramp, and heat hits my face again. Same smell-dust, grass, smoke.
+Every 8-12 Earth years the ship returns. I walk down the ramp, and heat hits my face again. Same smell-dust, grass, smoke.
 
 They're already waiting. Not with joy-with spears. Every time. Every generation. They pass down the story of those who come from the sky and take the best. To them, we're demons. Spirits. A curse.
 
@@ -195,7 +193,7 @@ Why? It changed nothing.
 
 In the archives-one line.
 
-"Object 728-41. Source material-local bipeds, brain 900–1100 cm³. Growth period-2,502,813 local orbits. Result-independent intelligent civilization, self-designation Homo sapiens. Status: observation continues."
+"Object 728-41. Source material-local bipeds, brain 900-1100 cm³. Growth period-2,502,813 local orbits. Result-independent intelligent civilization, self-designation Homo sapiens. Status: observation continues."
 
 One line. Two and a half million years. Thousands of generations. Billions of lives.
 

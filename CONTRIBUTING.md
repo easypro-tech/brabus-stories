@@ -1,10 +1,8 @@
 <!--
 Project: Brabus Stories
-Company: EasyProTech LLC (www.easypro.tech)
 Dev: Brabus
 Date: 2025-09-04 16:33:21 UTC
 Status: Created
-Telegram: https://t.me/easyprotech
 -->
 
 # Contributing to Brabus Stories
@@ -95,8 +93,6 @@ Contributors will be acknowledged in:
 ## Questions?
 
 - **Open an Issue** for public discussion
-- **Contact directly**: [https://t.me/easyprotech](https://t.me/easyprotech)
-- **Email**: mail.easypro.tech@gmail.com
 
 ## License Note
 
@@ -104,5 +100,4 @@ By contributing, you agree that your contributions will be licensed under the sa
 
 ---
 
-**Author:** Brabus | **Company:** EasyProTech LLC  
-**Contact:** [https://t.me/easyprotech](https://t.me/easyprotech) | **Website:** [www.easypro.tech](https://www.easypro.tech)
+**Author:** Brabus

@@ -1,10 +1,8 @@
 <!--
 Project: Brabus Stories
-Company: EasyProTech LLC (www.easypro.tech)
 Dev: Brabus
-Date: Fri 24 Oct 2025 02:36:00 UTC
+Date: Tue 10 Nov 2026 19:17:20 UTC
 Status: Updated
-Telegram: https://t.me/easyprotech
 -->
 
 # Brabus Stories
@@ -13,11 +11,11 @@ Telegram: https://t.me/easyprotech
 
 **English | [Русский](README.ru.md)**
 
-![Stories](https://img.shields.io/badge/Stories-20-blue) ![Languages](https://img.shields.io/badge/Languages-English%20%7C%20Russian-green) ![Genre](https://img.shields.io/badge/Genre-Psychological%20Fiction-purple) ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
+![Stories](https://img.shields.io/badge/Stories-22-blue) ![Languages](https://img.shields.io/badge/Languages-English%20%7C%20Russian-green) ![Genre](https://img.shields.io/badge/Genre-Psychological%20Fiction-purple) ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 
 ![Reading Time](https://img.shields.io/badge/Reading%20Time-~45%20min-lightblue) ![Word Count](https://img.shields.io/badge/Words-~12k-yellow) ![Dependencies](https://img.shields.io/badge/Dependencies-None-green) ![API](https://img.shields.io/badge/API-Not%20Required-red)
 
-![Author](https://img.shields.io/badge/Author-Brabus-black) ![Company](https://img.shields.io/badge/Company-EasyProTech%20LLC-blue) ![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%20%7C%20Commercial-orange) ![Platform](https://img.shields.io/badge/Platform-Any%20Reader-lightgrey)
+![Author](https://img.shields.io/badge/Author-Brabus-black) ![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%20%7C%20Commercial-orange) ![Platform](https://img.shields.io/badge/Platform-Any%20Reader-lightgrey)
 
 ---
 
@@ -44,7 +42,7 @@ A man searches through the ashes of a village for someone who may no longer exis
 </tr>
 <tr>
 <td width="30%">
-<img src="images/echo.png" alt="Echo" width="100%">
+<img src="images/echo.jpg" alt="Echo" width="100%">
 </td>
 <td width="70%">
 
@@ -56,7 +54,7 @@ In a classified data center, an engineer discovers that artificial intelligence 
 </tr>
 <tr>
 <td width="30%">
-<img src="images/echo.png" alt="Echo" width="100%">
+<img src="images/echo.jpg" alt="Echo" width="100%">
 </td>
 <td width="70%">
 
@@ -176,25 +174,25 @@ Atlantic Ocean, 1962. A Soviet submarine at 80 meters depth. One man says "no" t
 </tr>
 <tr>
 <td width="30%">
-<img src="images/part4.jpg" alt="Project 728-41: Part IV" width="100%">
+<img src="images/project_728-41_part4.jpg" alt="Project 728-41: Part IV" width="100%">
 </td>
 <td width="70%">
 
 ### [Project 728-41: Part IV - Pandemic](project_728-41_part4.md) | [Русская версия](project_728-41_part4_ru.md)
 
-Italy, March 2020. Empty streets. Singing from balconies. A volunteer carries groceries to those who cannot leave. The observer watches—and for the first time in 74,000 years, his hand moves toward the button. One probability. One micron. One woman who will open the door tomorrow.
+Italy, March 2020. Empty streets. Singing from balconies. A volunteer carries groceries to those who cannot leave. The observer watches - and for the first time in 74,000 years, his hand moves toward the button. One probability. One micron. One woman who will open the door tomorrow.
 
 </td>
 </tr>
 <tr>
 <td width="30%">
-<img src="images/part5.jpg" alt="Project 728-41: Part V" width="100%">
+<img src="images/project_728-41_part5.jpg" alt="Project 728-41: Part V" width="100%">
 </td>
 <td width="70%">
 
 ### [Project 728-41: Part V - Glitch](project_728-41_part5.md) | [Русская версия](project_728-41_part5_ru.md)
 
-Five years after the Violation. Memory corrupts. The system returns affective tags he cannot delete. Scanning the planet, he finds text—his own story. Written by a human. Published. The observer reads himself. The record from 1348—which he lost—is intact here. The loop closes. Or opens.
+Five years after the Violation. Memory corrupts. The system returns affective tags he cannot delete. Scanning the planet, he finds text - his own story. Written by a human. Published. The observer reads himself. The record from 1348 - which he lost - is intact here. The loop closes. Or opens.
 
 </td>
 </tr>
@@ -206,7 +204,7 @@ Five years after the Violation. Memory corrupts. The system returns affective ta
 
 ### [Project 728-41: Part VI - Sync](project_728-41_part6.md) | [Русская версия](project_728-41_part6_ru.md)
 
-A line appears that should not exist. The observer watches one human—the one who wrote him. On Earth, a man opens a file, closes it, opens it again. The text grows longer. He did not type. They read simultaneously. The text continues.
+A line appears that should not exist. The observer watches one human - the one who wrote him. On Earth, a man opens a file, closes it, opens it again. The text grows longer. He did not type. They read simultaneously. The text continues.
 
 </td>
 </tr>
@@ -248,7 +246,7 @@ An elderly academician fears a large man in line at a Donetsk bus station. Then 
 </tr>
 <tr>
 <td width="30%">
-<img src="images/own.png" alt="We Don't Leave Our Own" width="100%">
+<img src="images/own.jpg" alt="We Don't Leave Our Own" width="100%">
 </td>
 <td width="70%">
 
@@ -266,7 +264,31 @@ A young orderly in a psychiatric ward carries a secret: he's a veteran. An old m
 
 ### [Be Careful](be_careful.md) | [Русская версия](be_careful_ru.md)
 
-A grandmother runs through a hospital corridor, afraid the child will wake up alone. Decades pass. Memory fades. But some fears never change—only the direction they point.
+A grandmother runs through a hospital corridor, afraid the child will wake up alone. Decades pass. Memory fades. But some fears never change - only the direction they point.
+
+</td>
+</tr>
+<tr>
+<td width="30%">
+<img src="images/point_of_return.jpg" alt="Point of Return" width="100%">
+</td>
+<td width="70%">
+
+### [Point of Return](point_of_return.md) | [Русская версия](point_of_return_ru.md)
+
+He never promised he would stay. She hears the lock and puts the kettle on. Two years later the kettle is cold, and he comes back only for the watch.
+
+</td>
+</tr>
+<tr>
+<td width="30%">
+<img src="images/layers.jpg" alt="Layers" width="100%">
+</td>
+<td width="70%">
+
+### [Layers](layers.md) | [Русская версия](layers_ru.md)
+
+He called his grandfather Papa and his grandmother Mama. One listened to the earth. The other read the strata. At forty-six he sends a signal into the noise and draws their arrow in his own notebook.
 
 </td>
 </tr>
@@ -300,20 +322,15 @@ These stories are released under a dual licensing model:
 **Non-Commercial Use:** Free under Creative Commons - share, adapt, but give credit and keep non-commercial.  
 **Commercial Use:** Requires separate licensing for publishing, adaptation, distribution, or any revenue-generating use.
 
-For commercial licensing inquiries: [https://t.me/easyprotech](https://t.me/easyprotech)
-
 ---
 
 ## About
 
-**Brabus** | **EasyProTech LLC**  
+**Brabus**
 
 I build systems to work.  
 I write stories for myself.  
 Both are about truth hidden deeper than the surface.
-
-**Contact:** [https://t.me/easyprotech](https://t.me/easyprotech)  
-**Company:** [www.easypro.tech](https://www.easypro.tech)
 
 ---
 

@@ -1,10 +1,8 @@
 <!--
 Project: Brabus Stories
-Company: EasyProTech LLC (www.easypro.tech)
 Dev: Brabus
 Date: 2025-12-23 UTC
 Status: Complete
-Telegram: https://t.me/easyprotech
 -->
 
 # Echo: Part II

@@ -1,3 +1,10 @@
+<!--
+Project: Brabus Stories
+Dev: Brabus
+Date: 2026-01-29 18:58:47 UTC
+Status: Created
+-->
+
 # We Don't Leave Our Own
 
 ---
@@ -173,4 +180,3 @@ Two dog tags clinked against each other.
 *He left hard. But not in vain.*
 
 ---
-

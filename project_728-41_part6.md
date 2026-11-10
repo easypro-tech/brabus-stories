@@ -1,18 +1,11 @@
 <!--
 Project: Brabus Stories
-Company: EasyProTech LLC (www.easypro.tech)
 Dev: Brabus
 Date: 2025-03-04 UTC
 Status: Final
-Telegram: https://t.me/easyprotech
 -->
 
----
-
-**Project 728-41**
-**Part VI - Sync**
-
----
+# Project 728-41: Part VI - Sync
 
 The line should not have existed.
 

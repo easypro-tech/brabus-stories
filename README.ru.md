@@ -1,10 +1,8 @@
 <!--
 Project: Brabus Stories
-Company: EasyProTech LLC (www.easypro.tech)
 Dev: Brabus
-Date: Fri 24 Oct 2025 02:36:00 UTC
+Date: Tue 10 Nov 2026 19:17:20 UTC
 Status: Updated
-Telegram: https://t.me/easyprotech
 -->
 
 # Рассказы Брабуса
@@ -13,11 +11,11 @@ Telegram: https://t.me/easyprotech
 
 **[English](README.md) | Русский**
 
-![Stories](https://img.shields.io/badge/Рассказов-20-blue) ![Languages](https://img.shields.io/badge/Языки-Английский%20%7C%20Русский-green) ![Genre](https://img.shields.io/badge/Жанр-Психологическая%20проза-purple) ![Status](https://img.shields.io/badge/Статус-Завершен-brightgreen)
+![Stories](https://img.shields.io/badge/Рассказов-22-blue) ![Languages](https://img.shields.io/badge/Языки-Английский%20%7C%20Русский-green) ![Genre](https://img.shields.io/badge/Жанр-Психологическая%20проза-purple) ![Status](https://img.shields.io/badge/Статус-Завершен-brightgreen)
 
 ![Reading Time](https://img.shields.io/badge/Время%20чтения-~45%20мин-lightblue) ![Word Count](https://img.shields.io/badge/Слов-~12k-yellow) ![Dependencies](https://img.shields.io/badge/Зависимости-Отсутствуют-green) ![API](https://img.shields.io/badge/API-Не%20требуется-red)
 
-![Author](https://img.shields.io/badge/Автор-Brabus-black) ![Company](https://img.shields.io/badge/Компания-EasyProTech%20LLC-blue) ![License](https://img.shields.io/badge/Лицензия-CC%20BY--NC--SA%20%7C%20Коммерческая-orange) ![Platform](https://img.shields.io/badge/Платформа-Любой%20читатель-lightgrey)
+![Author](https://img.shields.io/badge/Автор-Brabus-black) ![License](https://img.shields.io/badge/Лицензия-CC%20BY--NC--SA%20%7C%20Коммерческая-orange) ![Platform](https://img.shields.io/badge/Платформа-Любой%20читатель-lightgrey)
 
 ---
 
@@ -44,7 +42,7 @@ Telegram: https://t.me/easyprotech
 </tr>
 <tr>
 <td width="30%">
-<img src="images/echo.png" alt="Эхо" width="100%">
+<img src="images/echo.jpg" alt="Эхо" width="100%">
 </td>
 <td width="70%">
 
@@ -56,7 +54,7 @@ Telegram: https://t.me/easyprotech
 </tr>
 <tr>
 <td width="30%">
-<img src="images/echo.png" alt="Эхо" width="100%">
+<img src="images/echo.jpg" alt="Эхо" width="100%">
 </td>
 <td width="70%">
 
@@ -176,25 +174,25 @@ Telegram: https://t.me/easyprotech
 </tr>
 <tr>
 <td width="30%">
-<img src="images/part4.jpg" alt="Проект 728-41: Часть IV" width="100%">
+<img src="images/project_728-41_part4.jpg" alt="Проект 728-41: Часть IV" width="100%">
 </td>
 <td width="70%">
 
 ### [Проект 728-41: Часть IV - Пандемия](project_728-41_part4_ru.md) | [English version](project_728-41_part4.md)
 
-Италия, март 2020. Пустые улицы. Пение с балконов. Волонтёр несёт продукты тем, кто не может выйти. Наблюдатель смотрит — и впервые за 74 000 лет его рука тянется к кнопке. Одна вероятность. Один микрон. Одна женщина, которая завтра откроет дверь.
+Италия, март 2020. Пустые улицы. Пение с балконов. Волонтёр несёт продукты тем, кто не может выйти. Наблюдатель смотрит - и впервые за 74 000 лет его рука тянется к кнопке. Одна вероятность. Один микрон. Одна женщина, которая завтра откроет дверь.
 
 </td>
 </tr>
 <tr>
 <td width="30%">
-<img src="images/part5.jpg" alt="Проект 728-41: Часть V" width="100%">
+<img src="images/project_728-41_part5.jpg" alt="Проект 728-41: Часть V" width="100%">
 </td>
 <td width="70%">
 
 ### [Проект 728-41: Часть V - Сбой](project_728-41_part5_ru.md) | [English version](project_728-41_part5.md)
 
-Пять лет после Нарушения. Память искажается. Система возвращает аффективные метки, которые он не может удалить. Сканируя планету, он находит текст — свою историю. Написанную человеком. Опубликованную. Наблюдатель читает себя. Запись от 1348 года — которую он потерял — здесь цела. Петля замыкается. Или размыкается.
+Пять лет после Нарушения. Память искажается. Система возвращает аффективные метки, которые он не может удалить. Сканируя планету, он находит текст - свою историю. Написанную человеком. Опубликованную. Наблюдатель читает себя. Запись от 1348 года - которую он потерял - здесь цела. Петля замыкается. Или размыкается.
 
 </td>
 </tr>
@@ -206,7 +204,7 @@ Telegram: https://t.me/easyprotech
 
 ### [Проект 728-41: Часть VI - Синхрон](project_728-41_part6_ru.md) | [English version](project_728-41_part6.md)
 
-Строка появляется там, где её не должно быть. Наблюдатель следит за одним человеком — тем, кто его написал. На Земле человек открывает файл, закрывает, открывает снова. Текст становится длиннее. Он не печатал. Они читают одновременно. Текст продолжается.
+Строка появляется там, где её не должно быть. Наблюдатель следит за одним человеком - тем, кто его написал. На Земле человек открывает файл, закрывает, открывает снова. Текст становится длиннее. Он не печатал. Они читают одновременно. Текст продолжается.
 
 </td>
 </tr>
@@ -248,7 +246,7 @@ Telegram: https://t.me/easyprotech
 </tr>
 <tr>
 <td width="30%">
-<img src="images/own.png" alt="Своих не бросаем" width="100%">
+<img src="images/own.jpg" alt="Своих не бросаем" width="100%">
 </td>
 <td width="70%">
 
@@ -266,7 +264,31 @@ Telegram: https://t.me/easyprotech
 
 ### [Будь осторожен](be_careful_ru.md) | [English version](be_careful.md)
 
-Бабушка бежит по больничному коридору, боясь, что ребёнок проснётся один. Проходят десятилетия. Память уходит. Но некоторые страхи не меняются — меняется только направление.
+Бабушка бежит по больничному коридору, боясь, что ребёнок проснётся один. Проходят десятилетия. Память уходит. Но некоторые страхи не меняются - меняется только направление.
+
+</td>
+</tr>
+<tr>
+<td width="30%">
+<img src="images/point_of_return.jpg" alt="Точка возврата" width="100%">
+</td>
+<td width="70%">
+
+### [Точка возврата](point_of_return_ru.md) | [English version](point_of_return.md)
+
+Он не обещал, что будет рядом. Она слышит замок и ставит чайник. Через два года чайник холодный, и он возвращается только за часами.
+
+</td>
+</tr>
+<tr>
+<td width="30%">
+<img src="images/layers.jpg" alt="Слои" width="100%">
+</td>
+<td width="70%">
+
+### [Слои](layers_ru.md) | [English version](layers.md)
+
+Деда он звал Папой, бабушку - Мамой. Один слушал землю. Другая читала пласты. В сорок шесть он посылает сигнал в шум и ставит в своей тетради их стрелку.
 
 </td>
 </tr>
@@ -300,20 +322,15 @@ git clone https://github.com/easypro-tech/brabus-stories.git
 **Некоммерческое использование:** Бесплатно под Creative Commons - делитесь, адаптируйте, но указывайте авторство и сохраняйте некоммерческий характер.  
 **Коммерческое использование:** Требует отдельного лицензирования для публикации, адаптации, распространения или любого использования с получением прибыли.
 
-По вопросам коммерческого лицензирования: [https://t.me/easyprotech](https://t.me/easyprotech)
-
 ---
 
 ## О проекте
 
-**Брабус** | **EasyProTech LLC**  
+**Брабус**
 
 Системы я строю для работы.  
 Истории пишу для себя.  
 И то, и другое - про правду, спрятанную глубже поверхности.
-
-**Контакт:** [https://t.me/easyprotech](https://t.me/easyprotech)  
-**Компания:** [www.easypro.tech](https://www.easypro.tech)
 
 ---
 

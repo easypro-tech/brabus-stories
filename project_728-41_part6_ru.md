@@ -1,18 +1,11 @@
 <!--
 Project: Brabus Stories
-Company: EasyProTech LLC (www.easypro.tech)
 Dev: Brabus
 Date: 2025-03-04 UTC
 Status: Final
-Telegram: https://t.me/easyprotech
 -->
 
----
-
-**Проект 728-41**
-**Часть VI - Синхрон**
-
----
+# Проект 728-41: Часть VI - Синхрон
 
 Строки не должно было быть.
 
